@@ -20,8 +20,11 @@ The cultures, geography, and technology of the era are described in the “Setti
 
 # Contents
 
-* [Character Creation](CharacterCreation.md)
-* [How to Play](HowToPlay.md)
-* [Stunts](Stunts.md)
-* [The Chant](Chant.md)
-
+* [Character Creation](CharacterCreation.md) - Guide to creating a new adventurer
+* [How to Play](HowToPlay.md) - Full player-facing rules
+* [Stunts](Stunts.md) - Descriptions of special character abilities
+* [Equipment](Equipment.md) - Item lists, and mechanics for crafting and brewing.
+* [The Chant](Chant.md) - Mechanics for magic and spellcasting
+* [Prayer and Miracles](Prayer.md) - Mechanics for prayer and miracles (divine magic)
+* [Setting Guide](Setting.md)
+* [Game Master Tools](GameMaster.md) - Tools, advice, and beasties for the folks running the game. 
