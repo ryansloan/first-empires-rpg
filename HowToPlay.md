@@ -8,7 +8,7 @@ First, specify the intended outcome for the action: attack, create an advantage,
 
 When you **attack**, you are doing harm to creature(s). Any excess harm can be applied to another creature in the same zone.
 * Example: stabbing the evil king with a pointy stick
-* You deal 1 harm, plus one more for each 6 rolled.
+* You deal harm equal to the number of hits.
 * On a mixed success: you deal harm but suffer some yourself.
 * On a success: you deal harm with no negative effects
 
@@ -16,12 +16,15 @@ When you **create an advantage**, you are improving the situation for yourself o
 * Example: throwing sand in the evil king’s eyes so your ally can stab him
 * On a success: choose one…
     * The **position** improves
-    * You create a new **tag**, which grants +1d to the next action invoking it
-    * You reduce a **danger clock**
+    * You create a new **tag**, which grants +2d when invoked. A **tag** can be invoked a number of times equal to the number of hits.
+    * You reduce a **danger clock** by the number of hits.
 
 When you **overcome an obstacle**, you are circumventing something that stands in your way.
 * Example: breaking down the evil king’s door (so you can eventually stab him)
 * On a success: You **make progress** against the obstacle, either bypassing it or adding to its clock.
+
+## Hits
+A **hit** is a die showing 4-6. 
 
 ## Position
 Position describes the relative danger of your character’s action. Most of the time, you’ll be in a Risky position. But if you are at a disadvantage (you’ve been disarmed in a fight, or are outnumbered), or are attempting an action at great scale (using magic to demolish a building), you may find yourself in a desperate position. 
@@ -53,9 +56,9 @@ This requires a mental shift from d20 based games. In a d20 game, Bonko the Barb
 #### Critical Success
 If you roll two or more 6’s, it’s a critical success. **Gain a luck die** and **increased effect**. You can roll a critical success even when penalties force you to roll 2d6 and use the lowest.
 
-“Increased effect” means that you do more harm, make more progress, or create a stickier tag. Add one effect for each additional six rolled after the first.
+“Increased effect” means that you do more harm, make more progress, or create a stickier tag. Double your damage, progress ticks, or stickiness duration.
 
-Example: Inigo gracefully attacks a charging bull with his rapier. He rolls three Body dice plus Maneuver: 3, 6, 5, 6 – a critical success! He gains one Luck Die, and deals three harm.
+Example: Inigo gracefully attacks a charging bull with his rapier. He rolls three Body dice plus Maneuver: 3, 6, 5, 6 – a critical success! The 6's and the 5 make 3 harm, but he doubles it to 6, and gains one Luck Die.
 
 ### Hitches
 Before rolling, someone at the table may propose a “Hitch” using one of the player’s troubles. A Hitch represents a player’s traits, personality, or injuries causing problems. Anyone can propose a Hitch: the player rolling, the GM, or another player at the table. The player gets to decide whether or not to accept it. A player cannot accept a hitch and spend a Luck Die for a bonus on the same action.
