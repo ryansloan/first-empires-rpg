@@ -8,7 +8,7 @@ First, specify the intended outcome for the action: attack, create an advantage,
 
 When you **attack**, you are doing harm to creature(s). Any excess harm can be applied to another creature in the same zone.
 * Example: stabbing the evil king with a pointy stick
-* You deal 1 harm, plus one more for each 6 rolled.
+* You deal harm equal to the number of hits.
 * On a mixed success: you deal harm but suffer some yourself.
 * On a success: you deal harm with no negative effects
 
@@ -16,12 +16,28 @@ When you **create an advantage**, you are improving the situation for yourself o
 * Example: throwing sand in the evil king’s eyes so your ally can stab him
 * On a success: choose one…
     * The **position** improves
-    * You create a new **tag**, which grants +1d to the next action invoking it
-    * You reduce a **danger clock**
+    * You create a new **tag**, which grants +2d when invoked. A **tag** can be invoked a number of times equal to the number of hits.
+    * You reduce a **danger clock** by the number of hits.
 
 When you **overcome an obstacle**, you are circumventing something that stands in your way.
 * Example: breaking down the evil king’s door (so you can eventually stab him)
 * On a success: You **make progress** against the obstacle, either bypassing it or adding to its clock.
+
+## Hits
+A **hit** is a die showing 4-6. 
+
+## Exploding Sixes: Critical Success!
+For each die showing **6**, roll one more die. This is called _exploding_. The result of an exploding six is added to your pool of results. If a 6 explodes resulting in _another_ 6, that explodes too, ad infinitum. 
+
+**Example of exploding sixes**
+> Bonko has 3 ranks in Body, plus training in Brawl. When Bonko charges in to slaughter the vile skeleton army, Kai rolls 4d6, giving 2, 4, 6, 6.
+> 
+> Both of those sixes explode, so Kai rolls two more: 4, 6.
+>
+> The newest six _also_ explodes, so Kai rolls one more: 3.
+>
+> Kai's final pool is 2, 4, 6, 6, 4, 6, 3, giving **five hits!**
+
 
 ## Position
 Position describes the relative danger of your character’s action. Most of the time, you’ll be in a Risky position. But if you are at a disadvantage (you’ve been disarmed in a fight, or are outnumbered), or are attempting an action at great scale (using magic to demolish a building), you may find yourself in a desperate position. 
@@ -50,13 +66,6 @@ It doesn’t mean your character did something foolish or stupid, and it’s cer
 
 This requires a mental shift from d20 based games. In a d20 game, Bonko the Barbarian charges into combat with a troll, rolling to hit. This resolves only Bonko’s action, and the troll also gets a turn to attack. If Bonko hits the troll, but the troll also claws at them, that’s not a failed action: fighting is just dangerous. In this game, only players get turns, so the roll for Bonko also encompasses the actions of the enemies, environment, and other hazards.
 
-#### Critical Success
-If you roll two or more 6’s, it’s a critical success. **Gain a luck die** and **increased effect**. You can roll a critical success even when penalties force you to roll 2d6 and use the lowest.
-
-“Increased effect” means that you do more harm, make more progress, or create a stickier tag. Add one effect for each additional six rolled after the first.
-
-Example: Inigo gracefully attacks a charging bull with his rapier. He rolls three Body dice plus Maneuver: 3, 6, 5, 6 – a critical success! He gains one Luck Die, and deals three harm.
-
 ### Hitches
 Before rolling, someone at the table may propose a “Hitch” using one of the player’s troubles. A Hitch represents a player’s traits, personality, or injuries causing problems. Anyone can propose a Hitch: the player rolling, the GM, or another player at the table. The player gets to decide whether or not to accept it. A player cannot accept a hitch and spend a Luck Die for a bonus on the same action.
 
@@ -84,7 +93,7 @@ When things don’t go your way, you may incur harm. Injuries and penalties add 
 **Lady Luck’s Final Judgment**: When you reach 7 harm, you may roll all your remaining Luck dice. Will Lady Luck intervene to aid you? If the highest die is 1-3, your adventurer has met their end. If it is 4-5, your adventurer remains at 6 harm, unconscious but alive. If you roll a 6, your adventurer is conscious with only 5 harm. If you roll more than one 6, your harm is reduced by one point for each six after the first.
 
 ### Resisting Harm
-When a character suffers physical harm they can resist it. When a character **resists physical harm**, they **suffer 1 strain** and **roll Maneuver**. The harm they suffer is reduced by 1 plus the number of 6’s rolled, to a minimum of zero. Resisting harm does not negate other ill effects.
+When a character suffers physical harm they can resist it. When a character **resists physical harm**, they **suffer 1 strain** and **roll Maneuver**. The harm they suffer is reduced by 1 plus the number of _hits_ rolled, to a minimum of zero. Resisting harm does not negate other ill effects.
 
 #### Armor
 Characters wearing armor are protected from additional harm. When a character resists physical harm while wearing armor, they add a number of dice to their resistance roll equal to the armor’s rating. 

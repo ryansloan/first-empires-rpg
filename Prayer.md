@@ -30,7 +30,7 @@ Each domain of prayer has a set of miracles the player can choose from. All mira
 * The target suffers one less strain next time they Chant.
 
 ### Good Fortune
-* Distribute luck dice equal to the number of dice showing 4-6 to targets of your choice.
+* Distribute luck dice equal to the number of hits to targets of your choice.
 * The target gains double luck dice for failed rolls for the duration of the quest. A creature can only receive this benefit once per quest.
 
 ### Knowledge
@@ -49,12 +49,12 @@ Each domain of prayer has a set of miracles the player can choose from. All mira
 * Sickness: The target is afflicted with a minor illness
 
 ### Repudiation
-* You harm the target at limited effect. This miracle stacks to standard and increased effect.
+* You harm the target. This miracle can be stacked for more harm.
 * You destroy one undead _goon_.
 
 ### Restoration
-* The target’s current harm is reduced by the number of dice showing 4-6.
-* The target’s current strain is reduced by the number of die showing 4-6.
+* The target’s current harm is reduced by the number of hits.
+* The target’s current strain is reduced by the number of hits.
 * You remove one curse or physical trouble from the target.
 
 ### Shielding
