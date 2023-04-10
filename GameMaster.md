@@ -1,5 +1,15 @@
 # Game Master Tools
 
+## Something Happens!
+In some RPGs, a failed roll means nothing happens: the status quo is maintained. In First Empires, this is not the case: **something always changes after dice are rolled**. This means:
+
+* **Only roll when it counts**. Don't call for a roll if there's no meaningful consequence of failure. They just do it – _especially_ if it's core to the character's fantasy. 
+* **Share the lore**. Knowledge checks are hard to devise consequences for, if a player asks a question someone in the party might reasonably know, _just tell them_. If it's important to gatekeep the information, then give them an action-oriented way to find out: a library to search, a person to talk to, or a lost inscription to quest for.
+* **Mixed success is still success**. Don't use a mixed success as an opportunity to make a character look foolish, or completely undermine their intended goal. Instead, 
+* **Embrace failing-forward**. Sometimes, a character can achieve their immediate goal with failed roll, but in doing so find themselves in a desperate position.
+* **Not all consequences are immediately visible**. A flubbed roll to sneak into the goblin war camp might seem fine at first. Little do the players know, the goblins are arming themselves. 
+* **Telegraph threats**. Enemies don't get turns, so players shouldn't be surprised to learn that the monster is attacking them. (Unless it's a narrative surprise attack!)
+
 ## Clocks
 In most cases, obstacles and enemies can be overcome with one successful action. Most doors are no match for a seasoned lockpick, and zombies can only withstand so much bonking. But sometimes, you’ll encounter a nut that’s harder to crack: a complex locking mechanism, elaborate magical wards, or an enemy with enhanced strength. In those cases, the GM creates a clock with a number of segments corresponding to the difficulty of the task. 
 
@@ -38,7 +48,7 @@ The structures and rhythms of gameplay are hierarchical:
     * Undead - The reanimated dead. Zombies, skeletons, and ghosts are in this category.
     * Elemental [X] - a living creature composed of element X
     * Monster - A creature that does not fall into any other creature category
-* Goon – This is a simple creature, dispatched with one standard effect attack or two limited effect attacks. Most of the enemies a party faces will be Goons serving a more powerful foe.
+* Goon – This is a simple creature, dispatched with one harm. Most of the enemies a party faces will be Goons serving a more powerful foe.
 * Brute [X] – the creature is ferocious, and deals X more harm than usual. 
 * Flying - the creature can fly skillfully
 * Swimming - the creature can swim skillfully
