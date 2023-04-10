@@ -49,7 +49,7 @@ Each domain of prayer has a set of miracles the player can choose from. All mira
 * Sickness: The target is afflicted with a minor illness
 
 ### Repudiation
-* You harm the target at limited effect. This miracle stacks to standard and increased effect.
+* You harm the target. This miracle can be stacked for more harm.
 * You destroy one undead _goon_.
 
 ### Restoration
