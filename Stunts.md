@@ -16,7 +16,7 @@ At character creation and when leveling up, your character can gain special feat
 | What Doesn't Kill Me | Requires _Berserker's Fury_ | When you are not wearing armor, you add one die to your resistance pool for each point of harm you have. |
 | Chanter | Requires at least 1 rank in _Mind_ | You can practice The Chant using the mechanics described in [The Chant](Chant.md) |
 | Deadeye | Requires training in _Hunt_ | When you use _Hunt_ to shoot from a controlled position, add one die to your pool. |
-| Evasive Maneuvers | Requires Training in _Maneuver_ | When you roll to resist harm while wearing no armor or Basic armor, you can spend a luck die to treat a mixed success as a success. |
+| Evasive Maneuvers | Requires Training in _Maneuver_ | After rolling to resist harm while wearing no armor or Basic armor, you can spend a luck die to reduce the harm you suffer by 1 more. |
 | Dirty Tricks | | When an ally has placed a tag on a creature, and you make an attack invoking that tag, add two dice to your pool instead of one. |
 | Divine Devotion | Requires training in _Pray_ | You gain +1d on prayers in your chosen deity’s domain. |
 | Field Repair | Requires training in _Tinker_ | If you take 10 minutes to repair a piece of armor, roll Tinker. Restore armor rating equal to the highest die. The armor cannot exceed its maximum. |
