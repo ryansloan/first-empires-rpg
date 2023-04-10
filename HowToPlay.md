@@ -26,8 +26,8 @@ When you **overcome an obstacle**, you are circumventing something that stands i
 ## Hits
 A **hit** is a die showing 4-6. 
 
-## Exploding Sixes
-Each die you roll showing a *6* can be rolled again. This is called _exploding_. The result of an exploding six is added to your pool of results. If a 6 explodes resulting in _another_ 6, that explodes too, ad infinitum. 
+## Exploding Sixes: Critical Success!
+For each die showing **6**, roll one more die. This is called _exploding_. The result of an exploding six is added to your pool of results. If a 6 explodes resulting in _another_ 6, that explodes too, ad infinitum. 
 
 **Example of exploding sixes**
 > Bonko has 3 ranks in Body, plus training in Brawl. When Bonko charges in to slaughter the vile skeleton army, Kai rolls 4d6, giving 2, 4, 6, 6.
@@ -65,13 +65,6 @@ Failure’s not all bad. Every time you roll a failure (1-3), you **earn 1 Exper
 It doesn’t mean your character did something foolish or stupid, and it’s certainly not a failure. It means the situation was complicated in some way: perhaps there was an unforeseen side effect, or perhaps the situation was just inherently dangerous.
 
 This requires a mental shift from d20 based games. In a d20 game, Bonko the Barbarian charges into combat with a troll, rolling to hit. This resolves only Bonko’s action, and the troll also gets a turn to attack. If Bonko hits the troll, but the troll also claws at them, that’s not a failed action: fighting is just dangerous. In this game, only players get turns, so the roll for Bonko also encompasses the actions of the enemies, environment, and other hazards.
-
-#### Critical Success
-If you roll two or more 6’s, it’s a critical success. **Gain a luck die** and **increased effect**. You can roll a critical success even when penalties force you to roll 2d6 and use the lowest.
-
-“Increased effect” means that you do more harm, make more progress, or create a stickier tag. Double your damage, progress ticks, or stickiness duration.
-
-Example: Inigo gracefully attacks a charging bull with his rapier. He rolls three Body dice plus Maneuver: 3, 6, 5, 6 – a critical success! The 6's and the 5 make 3 harm, but he doubles it to 6, and gains one Luck Die.
 
 ### Hitches
 Before rolling, someone at the table may propose a “Hitch” using one of the player’s troubles. A Hitch represents a player’s traits, personality, or injuries causing problems. Anyone can propose a Hitch: the player rolling, the GM, or another player at the table. The player gets to decide whether or not to accept it. A player cannot accept a hitch and spend a Luck Die for a bonus on the same action.
