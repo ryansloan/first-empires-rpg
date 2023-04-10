@@ -50,10 +50,10 @@ When you spontaneously chant a verse, you suffer 1 Strain plus 1 more point of S
 If you can take one hour or more to rehearse the verse immediately before chanting it, you reduce any Strain incurred during this ritual by 1.
 
 #### Strain from Ongoing Effects
-If your verse produces an ongoing magical effect under your control (for example: animated dead, or a magical barrier), any strain incurred while casting is doubled. As long as you are maintaining an ongoing effect, you cannot clear any Strain.
+If your verse produces an ongoing magical effect under your control (for example: animated dead, or a magical barrier), any strain incurred while casting is doubled. As long as you are maintaining an ongoing effect, you cannot clear Strain by any means.
 
 ### Restorative Magic
-Some Chanters can perform restorative magic to heal injuries. When a Chanter uses a restorative verse on a living creature, the target’s harm is reduced by the number of dice showing 4 to 6. Resurrecting a dead creature requires a lengthy ritual with costly materials between quests.
+Some Chanters can perform restorative magic to heal injuries. When a Chanter uses a restorative verse on a living creature, the target’s harm is reduced by the number of hits rolled. Resurrecting a dead creature requires a lengthy ritual with costly materials between quests.
 
 ## Grand Lexicon
 The Grand Lexicon is the list of all known Chant words. Nouns that are in bold are general target nouns. The words indented below are specifiers. You can learn a specifier only if you have already learned its general noun.
@@ -87,7 +87,6 @@ The Grand Lexicon is the list of all known Chant words. Nouns that are in bold a
     * Construct
     * Fabric
     * Force
-    * Paper
 
 ## Example Verses
 These are a few examples of verses and their effects. Remember: a two- or even one-word verse can always be used to the same effect as a three word verse. The shorter verses are less likely to succeed but will produce less Strain.
