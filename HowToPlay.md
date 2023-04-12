@@ -96,7 +96,7 @@ When things don’t go your way, you may incur harm. Injuries and penalties add 
 When a character suffers physical harm they can resist it. When a character **resists physical harm**, they **suffer 1 strain** and **roll Maneuver**. The harm they suffer is reduced by 1 plus the number of _hits_ rolled, to a minimum of zero. Resisting harm does not negate other ill effects.
 
 #### Armor
-Characters wearing armor are protected from additional harm. When a character resists physical harm while wearing armor, they add a number of dice to their resistance roll equal to the armor’s rating. 
+Characters wearing armor are protected from additional harm. When a character with armor would suffer harm, they can instead deduct as much of the harm as they want from their current armor value. 
 
 ## Luck Dice
 _“The magic of our realm relies on cosmic balance. Optimists would suggest that all bad luck is complemented by better fortune. Pessimists would remind you that you may not be on the receiving end of it.” – Sir Glastaff M. T., noted pessimist._
