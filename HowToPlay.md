@@ -57,8 +57,8 @@ Failure’s not all bad. Every time you roll a failure (1-3), you **earn 1 Exper
 
 | Highest Die | Controlled | Risky | Desperate |
 | -- | -- | -- | -- |
-| 1-3 (failure) | Position becomes Risky | A complication occurs! Suffer 1-2 harm; the position is desperate; gain a Trouble |  Suffer 2-4 harm; a serious complication occurs; gain a Trouble | 
-| 4-5 (mixed success) | Yes, but: with minor complication; reduced effect | Yes, but: with minor complication; reduced effect; suffer 1 harm. | Yes, but: with serious complication; suffer 2-3 harm |
+| 1-3 (failure) | Position becomes Risky | A complication occurs! Suffer harm; the position is desperate; gain a Trouble |  Suffer serious harm; a serious complication occurs; gain a Trouble | 
+| 4-5 (mixed success) | Yes, but: with minor complication; reduced effect | Yes, but: with minor complication; reduced effect; suffer harm. | Yes, but: with serious complication; suffer serious harm |
 | 6 (success) | You do it! | You do it! | You do it! |
 
 #### Mixed Success is Still Success 

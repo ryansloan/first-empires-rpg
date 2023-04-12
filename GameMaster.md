@@ -26,6 +26,9 @@ Obstacle Clocks and Health Clocks track the party’s progress toward their goal
 
 A failed roll in a risky position may result in two ticks to a danger clock, whereas a failed roll in a desperate position may result in four. 
 
+#### Harm vs. Serious Harm
+When a character suffers "serious harm" (because they are in a desperate position), the damage is rolled with advantage (roll twice, keep the highest). For example, if the monster attacking normally deals 1d4 damage, roll 2d4 and keep the highest.
+
 ## Tags
 Sometimes, scenarios, objects, or creatures will have **tags** associated with them, representing unique properties that player characters can use to their advantage. For example, creating an advantage by throwing fire at an enemy might give them the “ablaze” tag. The next party member to act can invoke the “ablaze” status to gain +1d. 
 
