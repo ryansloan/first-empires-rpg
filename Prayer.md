@@ -58,5 +58,5 @@ Each domain of prayer has a set of miracles the player can choose from. All mira
 * You remove one curse or physical trouble from the target.
 
 ### Shielding
-* The target gains +1 armor rating for the duration of the quest. **[TODO: This must be changed with the new armor resistance system]**
+* The target gains +1 armor rating for the duration of the quest.
 * For the duration of the target’s quest, they cannot become lost.
