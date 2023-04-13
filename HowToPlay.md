@@ -47,8 +47,6 @@ Most actions are resolved the same way: **roll one for each rank you have in the
 
 Chanting uses different rules for gathering dice, described in [The Chant](Chant.md).
 
-### Aspiration Bonus
-If your action is related to your character’s current Aspiration, add one more die to your pool.
 
 ### Determining the Result
 The highest die determines the result, as described in the table below. If you have to roll zero or fewer dice due to penalties, roll two and use the lowest. Pray has special rules for determining results, see “Prayer and Miracles”.
