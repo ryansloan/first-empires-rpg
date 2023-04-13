@@ -76,7 +76,7 @@ Every character can carry three inventory items. For each point a character has 
 Most weapons don’t provide special mechanical benefits, but entering a physical fight against armed opponents without a weapon of your own will be at reduced effect. Your character starts with a weapon of their choice, probably a classic of their home empire. This can be a basic or martial weapon with no tags.
 
 ### Armor
-A new character’s starting Armor depends on their ranks in Body. Characters with zero or one rank in body start with no armor, just clothing. Characters with two ranks in Body start with Basic Armor (1 armor, leather padding). Characters with three ranks in Body start with Martial Armor (2 armor, chainmail). Armor is described in the Equipment section.
+A new character’s starting Armor depends on their ranks in Body. Characters with zero or one rank in body start with no armor, just clothing. Characters with two ranks in Body start with Basic Armor (1 armor, leather padding). Characters with three ranks in Body start with Martial Armor (2 armor, bronze cuirass). Armor is described in the Equipment section.
 
 ### Ingots
 You start the game with 2 ingots of tin. One ingot is typically enough to buy everyone in the tavern a drinks and dinner, or bribe a low-level lackey.
