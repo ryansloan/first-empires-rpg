@@ -5,7 +5,7 @@ The Age of First Empires is a time of primal, meddling gods. The divine can no l
 All deities can answer prayers for any type of miracle, but each deity has a divine domain representing their area of focus. This provides flavor for your deity, and is the basis for the “Divine Devotion” stunt. When you choose your deity, work with the GM to choose their domain.
 
 ## Prayers
-There are set categories of prayers that the devout may choose from, each can produce different kinds of miracles. Before rolling to pray, declare the domain of the prayer. Unlike other skills, with Prayer the GM does not set a level of effect. Instead, the player chooses a combination of effects from the result of their roll. The GM may propose alternative effects for a miracle or failure that are narratively appropriate.
+There are set categories of prayers that the devout may choose from, each can produce different kinds of miracles. Before rolling to pray, declare the domain of the prayer. Unlike other skills, the player chooses a combination of effects from the result of their roll. The GM may propose alternative effects for a miracle or failure that are narratively appropriate.
 
 Roll Intuition using the Prayer skill, and interpret the results as follows:
 

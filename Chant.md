@@ -28,7 +28,7 @@ The GM will let the story guide the consequences of imperfect chanting. You may 
 
 **Bonus:** You can spend Luck dice to gain a bonus when Chanting, as with other actions.
 
-**Exceptional targets:** Some targets may require exceptional power to manipulate. Attempting to “move” the moon, or “immobilize” the entire ocean would challenge even the greatest Chanter. Targeting exceptional targets like these may be desperate and with limited effect, at the GM’s discretion.
+**Exceptional targets:** Some targets may require exceptional power to manipulate. Attempting to “move” the moon, or “immobilize” the entire ocean would challenge even the greatest Chanter. Targeting exceptional targets like these may be desperate or have limited effect, at the GM’s discretion.
 
 **Example: More verses to mend a wheel.** If you cast a simple “restore” on a wagon wheel, you would roll 2d6 and use the highest result. If you cast “restore synthetic”, roll 3d6 and take the highest result. For the more specific “restore synthetic construct”, roll 4d6 and keep the highest.
 
